@@ -5,3 +5,4 @@ List Of Librery Is Below..
 1-- NumPy
 2--Scipy
 3--MatPlotlib
+reference :- https://cs231n.github.io/python-numpy-tutorial/#broadcasting
