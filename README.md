@@ -5,4 +5,6 @@ List Of Librery Is Below..
 1-- NumPy
 2-- Pandas
 3-- MatPlotlib
-reference :- https://cs231n.github.io/python-numpy-tutorial/#broadcasting
+reference :- 
+1:- https://cs231n.github.io/python-numpy-tutorial/#broadcasting
+2:- https://youtu.be/JDcZBzb46ts
